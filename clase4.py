@@ -73,6 +73,7 @@ while not salir:
 print ("Gracias por utilizar el programa")
 
 print("Saludos")
+print("Despedida")
 
 
 cursor.close()
